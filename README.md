@@ -7,7 +7,7 @@ Script rss_extractor.sh:
   - use command 'crontab -e' and write in the end such command
   
       --------------------------------------------------------
-      30 23 * * * /home/linux/snap/rss_reader/rss_extractor.sh
+      30 23 * * * /home/linux/snap/rss_reader/rss_extractor.sh \n
       30 13 * * * /home/linux/snap/rss_reader/rss_extractor.sh
       --------------------------------------------------------
     
